@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-02T19:15:55 IST" name="Default suite" finished-at="2023-12-02T19:16:06 IST" duration-ms="10821">
+    <groups>
+    </groups>
+    <test started-at="2023-12-02T19:15:55 IST" name="Default test" finished-at="2023-12-02T19:16:06 IST" duration-ms="10821">
+      <class name="test.AddCartMessegesDemo">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:test.AddCartMessegesDemo@2e3967ea]" started-at="2023-12-02T19:15:55 IST" name="launchApp" finished-at="2023-12-02T19:16:02 IST" duration-ms="7036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="loginWebPageValidaUnaPw()[pri:0, instance:test.AddCartMessegesDemo@2e3967ea]" started-at="2023-12-02T19:16:02 IST" name="loginWebPageValidaUnaPw" finished-at="2023-12-02T19:16:06 IST" duration-ms="3441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWebPageValidaUnaPw -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AddCartMessegesDemo@2e3967ea]" started-at="2023-12-02T19:16:06 IST" name="tearDown" finished-at="2023-12-02T19:16:06 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.AddCartMessegesDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
